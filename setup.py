@@ -3,6 +3,7 @@ from setuptools import setup, find_packages
 
 from disco import VERSION
 
+
 with open('requirements.txt') as f:
     requirements = f.readlines()
 
